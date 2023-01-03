@@ -1,6 +1,6 @@
 # Sprint4Task1
 
-Per aquest projecte he utilitzat aquests recursos:
+Per aquest projecte he utilitzat aquests recursos: /n
 Introducció a Spring: https://www.youtube.com/watch?v=rnyObUvNEdU
 Introducció a REST API: https://spring.io/guides/gs/rest-service/
 Per saber com canviar el server.port: https://www.geeksforgeeks.org/spring-boot-application-properties/
